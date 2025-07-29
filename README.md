@@ -1,2 +1,4 @@
 # BlobsExplorerApp
-Two projects from [ITStep repo]("https://translate.google.com/?hl=uk&amp;sl=uk&amp;tl=en&amp;op=translate") merged in one repo
+
+Two projects from [ITStep](https://github.com/unxwn/ITStep) merged in one repo.
+Don`t forget to specify User Secrets, other configurations and application settings :)

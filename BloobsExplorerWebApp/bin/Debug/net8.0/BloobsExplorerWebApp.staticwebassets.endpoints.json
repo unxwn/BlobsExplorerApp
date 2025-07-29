@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "BloobsExplorerWebApp.doh1okpxyn.styles.css",
+      "AssetFile": "BloobsExplorerWebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QzimNClBhBLGGMj3N+t+YFe2G6pH25Yw44n24m2ERvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 23:02:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "doh1okpxyn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QzimNClBhBLGGMj3N+t+YFe2G6pH25Yw44n24m2ERvY="
+        },
+        {
+          "Name": "label",
+          "Value": "BloobsExplorerWebApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "BloobsExplorerWebApp.styles.css",
+      "AssetFile": "BloobsExplorerWebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QzimNClBhBLGGMj3N+t+YFe2G6pH25Yw44n24m2ERvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 23:02:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QzimNClBhBLGGMj3N+t+YFe2G6pH25Yw44n24m2ERvY="
+        }
+      ]
+    }
+  ]
+}

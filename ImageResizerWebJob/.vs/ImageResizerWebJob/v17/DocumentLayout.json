@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITStep\\CloudTechnologies\\BlobsExplorerApp\\ImageResizerWebJob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70C363-9CEB-4BFF-B235-A98408D3808C}|ImageResizerWebJob.csproj|d:\\itstep\\cloudtechnologies\\blobsexplorerapp\\imageresizerwebjob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD70C363-9CEB-4BFF-B235-A98408D3808C}|ImageResizerWebJob.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70C363-9CEB-4BFF-B235-A98408D3808C}|ImageResizerWebJob.csproj|d:\\itstep\\cloudtechnologies\\blobsexplorerapp\\imageresizerwebjob\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70C363-9CEB-4BFF-B235-A98408D3808C}|ImageResizerWebJob.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70C363-9CEB-4BFF-B235-A98408D3808C}|ImageResizerWebJob.csproj|d:\\itstep\\cloudtechnologies\\blobsexplorerapp\\imageresizerwebjob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70C363-9CEB-4BFF-B235-A98408D3808C}|ImageResizerWebJob.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "D:\\ITStep\\CloudTechnologies\\BlobsExplorerApp\\ImageResizerWebJob\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "D:\\ITStep\\CloudTechnologies\\BlobsExplorerApp\\ImageResizerWebJob\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:12:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITStep\\CloudTechnologies\\BlobsExplorerApp\\ImageResizerWebJob\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ITStep\\CloudTechnologies\\BlobsExplorerApp\\ImageResizerWebJob\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:12:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITStep\\CloudTechnologies\\BlobsExplorerApp\\ImageResizerWebJob\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ITStep\\CloudTechnologies\\BlobsExplorerApp\\ImageResizerWebJob\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-29T23:06:26.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

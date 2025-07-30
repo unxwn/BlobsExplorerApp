@@ -8,8 +8,7 @@ env:
   AZURE_WEBAPP_PACKAGE_PATH: .\published
   CONFIGURATION: Release
   DOTNET_CORE_VERSION: 8.0.x
-  WORKING_DIRECTORY: BlobsExplorerWebApp
-  PROJECT_FILE: BlobsExplorerWebApp/BloobsExplorerWebApp.csproj
+  WORKING_DIRECTORY: BloobsExplorerWebApp
 jobs:
   build:
     runs-on: windows-latest
@@ -20,13 +19,13 @@ jobs:
         with:
           dotnet-version: ${{ env.DOTNET_CORE_VERSION }}
       - name: Restore
-        run: dotnet restore "${{ env.PROJECT_FILE }}"
+        run: dotnet restore "${{ env.WORKING_DIRECTORY }}"
       - name: Build
-        run: dotnet build "${{ env.PROJECT_FILE }}" --configuration ${{ env.CONFIGURATION }} --no-restore
+        run: dotnet build "${{ env.WORKING_DIRECTORY }}" --configuration ${{ env.CONFIGURATION }} --no-restore
       - name: Test
-        run: dotnet test "${{ env.PROJECT_FILE }}" --no-build
+        run: dotnet test "${{ env.WORKING_DIRECTORY }}" --no-build
       - name: Publish
-        run: dotnet publish "${{ env.PROJECT_FILE }}" --configuration ${{ env.CONFIGURATION }} --no-build --output "${{ env.AZURE_WEBAPP_PACKAGE_PATH }}"
+        run: dotnet publish "${{ env.WORKING_DIRECTORY }}" --configuration ${{ env.CONFIGURATION }} --no-build --output "${{ env.AZURE_WEBAPP_PACKAGE_PATH }}"
       - name: Publish Artifacts
         uses: actions/upload-artifact@v4
         with:
